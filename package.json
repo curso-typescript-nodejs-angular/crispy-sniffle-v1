@@ -32,6 +32,7 @@
     "jest": "^24.8.0",
     "mockingoose": "^2.13.1",
     "mongodb-memory-server": "^5.1.9",
+    "node-mocks-http": "^1.7.6",
     "nodemon": "^1.19.1",
     "supertest": "^4.0.2",
     "ts-jest": "^24.0.2",
